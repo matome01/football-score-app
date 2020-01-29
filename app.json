@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "football-score",
+    "slug": "football-score",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/android-chrome-192x192.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#2e2e2e"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.vkdltjs.footballscore"
+    },
+    "android": {
+      "package": "com.vkdltjs.footballscore"
+    }
+  }
+}
