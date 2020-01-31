@@ -61,6 +61,7 @@ export default function Standings() {
                 <MaterialIcons name='info' size={40} color='#ccc' style={styles.icon} onPress={()=>setModalOpen(true)}/>
             </View>
             {rankingAndRecords.loaded ? <FlatList
+                style={{width: '100%'}}
                 ListHeaderComponent={()=><SingleTeamRecord title='Club' record={{mp:'MP', w:'W', d:'D', l:'L', gf:'GF', ga:'GA', gd:'GD', pts:"Pts"}} rank='#' />}
                 //horizontal={true}
                 keyExtractor={item => item}
@@ -88,6 +89,8 @@ const styles = StyleSheet.create({
         width: 140,
         height: 25,
         color: '#ccc',
+        //backgroundColor: 'yellow'
+        //transform: [{scaleX: 3.0}, {scaleY: 1.5}],
     },
     standings: {
         flex: 1,

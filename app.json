@@ -28,7 +28,9 @@
       "bundleIdentifier": "com.vkdltjs.footballscore"
     },
     "android": {
-      "package": "com.vkdltjs.footballscore"
-    }
+      "package": "com.vkdltjs.footballscore",
+      "permissions": []
+    },
+    "primaryColor" : "#2d1536"    
   }
 }

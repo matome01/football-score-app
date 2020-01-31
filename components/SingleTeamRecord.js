@@ -28,7 +28,7 @@ export default function SingleTeamRecord({ title, record, rank }) {
           <Text style={styles.stat}>
               {record.ga} 
           </Text>
-          <Text style={styles.stat}>
+          <Text style={{...styles.stat, flexBasis: 30}}>
               {record.gd} 
           </Text>
           <Text style={styles.stat}>
@@ -41,16 +41,29 @@ export default function SingleTeamRecord({ title, record, rank }) {
 const styles = StyleSheet.create({
   club: {
       color: '#ccc',
-      width: 150
+      flexBasis: 150,
+      //width: 180,
+      flexShrink: 9,
+      flexGrow: 9,
   },
   container: {
       flexDirection: 'row',
       paddingVertical: 1,
+      flex: 1,      
+      //flex: 9,
+      //flexWrap: 'wrap',
+      //justifyContent: 'center',
+      //flexBasis: 1,
+      //width: '10%',
+      //flexGrow: 3,
+      //backgroundColor: 'yellow'
   },
   stat: {
       color: '#ccc',
-      width: 24,
+      flexBasis: 24,
       textAlign: 'right',
+      flexShrink: 1,
+      flexGrow: 1,
   },
   center: {
       textAlign: 'center',
