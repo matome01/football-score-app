@@ -22,7 +22,7 @@ export default function SingleTeamRecord({ title, record, rank }) {
           <Text style={styles.stat}>
               {record.l}
           </Text>
-          <Text style={styles.stat}>
+          <Text style={{...styles.stat, flexBasis: 30}}>
               {record.gf}
           </Text>
           <Text style={styles.stat}>
@@ -31,7 +31,7 @@ export default function SingleTeamRecord({ title, record, rank }) {
           <Text style={{...styles.stat, flexBasis: 30}}>
               {record.gd} 
           </Text>
-          <Text style={styles.stat}>
+          <Text style={{...styles.stat, flexBasis: 30}}>
               {record.pts} 
           </Text>
     </View>
@@ -43,8 +43,8 @@ const styles = StyleSheet.create({
       color: '#ccc',
       flexBasis: 150,
       //width: 180,
-      flexShrink: 9,
-      flexGrow: 9,
+      flexShrink: 11,
+      flexGrow: 11,
   },
   container: {
       flexDirection: 'row',
