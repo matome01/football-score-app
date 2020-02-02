@@ -4,9 +4,9 @@ You can quickly check out the English Premier League match results and standings
 
 # Download link
 Android apk file<br/>
-[Link1](https://expo.io/artifacts/a339f5df-4eeb-4ccf-8b49-79f4e06639ad)
+[Link1](https://expo.io/artifacts/f58f9309-d523-44ec-b883-8751897e665b)
 <br>or<br>
-[Link2](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40vkdltjs/football-score-124fce9f71134d96be33e6c3cc17f4cb-signed.apk)
+[Link2](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40vkdltjs/football-score-6409c1c47df64fd0b6a014f4173dc767-signed.apk)
 
 # Screenshots
 <img src="docs/main.png" width="300"/><img src="docs/datepicker.png" width="300"/><img src="docs/navigation.png" width="300"/><img src="docs/standings.png" width="300"/><img src="docs/modal.png" width="300"/><img src="docs/picker.png" width="300"/>
