@@ -25,7 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.vkdltjs.footballscore"
+      "bundleIdentifier": "com.vkdltjs.footballscore",
+      "icon" : "./assets/ios-980x980.png"
     },
     "android": {
       "package": "com.vkdltjs.footballscore",
