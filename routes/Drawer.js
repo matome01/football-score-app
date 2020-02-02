@@ -3,7 +3,6 @@ import { createAppContainer } from 'react-navigation';
 
 import HomeStack from './HomeStack';
 import StandingsStack from './StandingsStack'
-import Sipal from './Sipal'
 
 const RootDrawerNavigator = createDrawerNavigator({
     'Match Results': {
@@ -12,9 +11,6 @@ const RootDrawerNavigator = createDrawerNavigator({
     Standings: {
       screen: StandingsStack,
     },
-    // Sipal: {
-    //   screen: Sipal,
-    // }
   },{
     drawerBackgroundColor: '#101010',
     //drawerType: 'back',

@@ -3,11 +3,11 @@ import { StyleSheet, Text, View, Image } from 'react-native';
 import React from 'react';
 
 const screens = {
-    Sipal: {
-        screen: ()=> <View><Text>Sipal</Text></View>,
+    Test1: {
+        screen: ()=> <View><Text>Test2</Text></View>,
         navigationOptions: ({ navigation }) => {
             return {
-                headerTitle: () => <View><Text>nigimi</Text></View>
+                headerTitle: () => <View><Text>Test3</Text></View>
             }
         }
     }
