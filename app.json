@@ -30,7 +30,8 @@
     },
     "android": {
       "package": "com.vkdltjs.footballscore",
-      "permissions": []
+      "permissions": [],
+      "versionCode": 2
     },
     "primaryColor" : "#2d1536"    
   }
