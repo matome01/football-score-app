@@ -9,8 +9,7 @@ You can quickly check out the English Premier League match results and standings
 [Link2](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40vkdltjs/football-score-6409c1c47df64fd0b6a014f4173dc767-signed.apk)
 
 #### Google Play Store
-[Link](https://play.google.com/store/apps/details?id=com.vkdltjs.footballscore)<br>
-(This might not be the latest version. For the latest version, download the apk file above.)
+[Link](https://play.google.com/store/apps/details?id=com.vkdltjs.footballscore)
 
 # Screenshots
 <img src="docs/main.png" width="300"/><img src="docs/datepicker.png" width="300"/><img src="docs/navigation.png" width="300"/><img src="docs/standings.png" width="300"/><img src="docs/modal.png" width="300"/><img src="docs/picker.png" width="300"/>
