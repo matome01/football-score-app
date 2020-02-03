@@ -3,12 +3,12 @@ Native mobile application using react native.<br>
 You can quickly check out the English Premier League match results and standings from 2010/11 to 2019/20 season.
 
 # Download link
-Android apk file<br/>
+#### Android apk file<br/>
 [Link1](https://expo.io/artifacts/f58f9309-d523-44ec-b883-8751897e665b)
 <br>or<br>
 [Link2](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40vkdltjs/football-score-6409c1c47df64fd0b6a014f4173dc767-signed.apk)
 
-Google Play Store
+#### Google Play Store
 [Link](https://play.google.com/store/apps/details?id=com.vkdltjs.footballscore)<br>
 (But it is not latest version. Older than apk file above.)
 
