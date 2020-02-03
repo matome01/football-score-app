@@ -10,7 +10,7 @@ You can quickly check out the English Premier League match results and standings
 
 #### Google Play Store
 [Link](https://play.google.com/store/apps/details?id=com.vkdltjs.footballscore)<br>
-(But this is not the latest version. For latest version, download the apk file above.)
+(But this is not the latest version. For the latest version, download the apk file above.)
 
 # Screenshots
 <img src="docs/main.png" width="300"/><img src="docs/datepicker.png" width="300"/><img src="docs/navigation.png" width="300"/><img src="docs/standings.png" width="300"/><img src="docs/modal.png" width="300"/><img src="docs/picker.png" width="300"/>
